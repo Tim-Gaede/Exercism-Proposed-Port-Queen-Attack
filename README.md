@@ -10,8 +10,7 @@ A chessboard can be represented by an 8 by 8 array.
 
 So if you're told the white queen is at (3, 4) and the black queen at
 (6, 7), then you'd know you've got a set-up like so:
-
- text```
+```text
  ┌───┬───┬───┬───┬───┬───┬───┬───┐
 1│   │   │   │   │   │   │   │   │
  ├───┼───┼───┼───┼───┼───┼───┼───┤  
